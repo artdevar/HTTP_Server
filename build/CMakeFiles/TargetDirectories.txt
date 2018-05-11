@@ -1,3 +1,0 @@
-C:/Users/noname/Desktop/HTTP/build/CMakeFiles/HTTP_Server.dir
-C:/Users/noname/Desktop/HTTP/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/noname/Desktop/HTTP/build/CMakeFiles/ZERO_CHECK.dir
